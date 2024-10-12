@@ -1,3 +1,5 @@
+# Anti-patterns for AI to beware of
+
 ```yaml
 index:
   - nope:
