@@ -1,5 +1,9 @@
 # Anti-patterns for AI to beware of
 
+> Matthew 16:23
+>
+> Jesus turned to Peter and said, "Satan, get away from me! You're in my way because you think like everyone else and not like God."
+
 ```yaml
 index:
   - nope:
